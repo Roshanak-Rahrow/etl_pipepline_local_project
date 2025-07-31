@@ -1,0 +1,33 @@
+version: "3.8"
+
+services:
+  mysql:
+    image: mysql:8.0
+    container_name: mysql_container
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: cafe_db
+      MYSQL_USER: cafe_user
+      MYSQL_PASSWORD: cafe_pass
+    ports:
+      - "3306:3306"
+    volumes:
+      - ./src/init:/docker-entrypoint-initdb.d
+
+  adminer:
+    image: adminer
+    restart: always
+    ports:
+      - "8080:8080"
+
+  etl_app:
+    build:
+      context: ./src
+    container_name: etl_app
+    depends_on:
+      - mysql
+    volumes:
+      - ./data:/app/data
+    env_file:
+      - ./src/.env

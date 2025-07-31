@@ -69,7 +69,7 @@ extended_data = [generate_row_extended() for _ in range(100)]
 df_extended = pd.DataFrame(extended_data)
 
 # Save to CSV
-extended_file_path = "C:/Users/RoshanakR(DE-LON16)/Documents/etl-project-1/etl-project-1/data/raw_transations.csv"
+extended_file_path = "./data/raw_transations.csv"
 df_extended.to_csv(extended_file_path, index=False)
 
 extended_file_path

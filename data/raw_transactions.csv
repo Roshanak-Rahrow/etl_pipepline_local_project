@@ -1,0 +1,101 @@
+Customer Name,Drink,Flavours,Milk,Qty,Price,Branch,Payment Type,Card Number,Date/Time
+Jessica,Matcha Latte,Vanilla,No milk,2,£25.86,Camden,Cash,4643961311109208,12/04/2024 04:26
+,Matcha Latte,No Flavour,No milk,,£21.8,London Bridge,Mobile,4970281896035308,28/03/2024 11:36
+Chris,Hot Chocolate,Caramel,No milk,2,£15.05,Croydon,Card,4314115002079830,11/03/2024 02:51
+Tom,Espresso,No Flavour,No milk,,£14.91,Ealing,Card,4257467139504427,05/02/2024 16:28
+Chris,Mocha,Hazelnut,Coconut,4,£24.08,Ealing,Card,4693245521525090,
+Sarah,Hot Chocolate,Vanilla,No milk,3,£21.64,Camden,Card,4032306368770696,04/04/2024 23:10
+Ali,Espresso,Vanilla,Soya,3,£18.6,Camden,Mobile,4353055700295352,19/11/2024 09:09
+Emily,Hot Chocolate,Vanilla,Semi-Skimmed Milk,1,£23.14,Croydon,Mobile,4813404081105438,25/06/2024 19:58
+,Americano,No Flavour,Semi-Skimmed Milk,3,£14.04,Croydon,Mobile,4911035388934295,33/13/2024 10:00
+Jessica,Tea,Oolong,Oa,3.0,£8.55,Camden,Cash,,2024/08/18
+Ali,Matcha Latte,No Flavour,Semi-Skimmed Milk,4,£10.74,Brixton,Cash,4374002248317328,03/05/2024 20:02
+Priya,Mocha,No Flavour,Oa,,£20.11,Ealing,Card,4945852016603772,21/03/2024 06:52
+Jessica,Espresso,Hazelnut,No milk,1,Three Pounds,Croydon,Card,4095954415935064,08/02/2024 21:52
+Dave,Cappuccino,No Flavour,1% Milk,1,£15.18,Croydon,Cash,4427680769716200,19/11/2024 22:28
+Ali,Espresso,Vanilla,Coconut,-1,£7.41,Camden,Card,,10/03/2024 08:54
+Emily,Mocha,Vanilla,1% Milk,3,£13.37,Camden,Cash,4861417905924648,19/09/2024 02:31
+Daniel,Tea,Peppermint,Coconut,,£12.09,Camden,Card,4231428479290303,2024/08/18
+Ali,Mocha,No Flavour,Soya,1,£8.44,Croydon,Card,4139045430660450,24/07/2024 10:12
+Daniel,Flat White,No Flavour,1% Milk,4,£17.07,,Card,4234146174679889,04/03/2024 18:54
+,Flat White,Caramel,Coconut,4,£23.84,Camden,Cash,4968080230300126,02/11/2024 07:40
+Sarah,Americano,Hazelnut,Coconut,4,£22.49,Ealing,Card,4454717676845426,03/02/2024 22:17
+Tom,Cappuccino,Caramel,No milk,3,£22.34,Ealing,Mobile,4048210102329453,28/10/2024 21:14
+,Cappuccino,Caramel,Soya,3,£25.1,Croydon,Mobile,4557541926708432,10/01/2024 19:57
+Sarah,Latte,Hazelnut,Oa,1,£13.48,Camden,Cash,4230928220667801,09/08/2024 10:15
+,Mocha,Hazelnut,Soya,1,£9.25,Brixton,Card,4260642873082756,03/04/2024 18:42
+Tom,Mocha,Vanilla,No milk,2,£25.74,Ealing,Cash,4883303113155868,06/02/2024 13:30
+Dave,Hot Chocolate,Caramel,Semi-Skimmed Milk,2,£20.73,Nottinghill,Cash,4147650526547943,02/04/2024 09:53
+Sarah,Espresso,Vanilla,1% Milk,3,£10.31,Croydon,Card,4502029884645773,28/11/2024 06:24
+,Cappuccino,No Flavour,Semi-Skimmed Milk,4,£6.14,Camden,Cash,4004781825286072,31/01/2024 23:38
+Daniel,Cappuccino,Hazelnut,No milk,2,£17.84,Brixton,Cash,4504967085273681,13/12/2024 04:21
+Tom,Flat White,Hazelnut,Oa,1,£14.65,Soho,Card,4709241099204759,04/09/2024 21:31
+Emily,Espresso,No Flavour,Semi-Skimmed Milk,4,£9.21,Camden,Cash,4405470684756728,05/07/2024 16:26
+Ali,Flat White,Hazelnut,Semi-Skimmed Milk,4,£19.23,Nottinghill,Card,4352342671600012,09/12/2024 10:56
+Daniel,Tea,Peppermint,1% Milk,4,£11.17,Brixton,Mobile,4537029758874509,25/11/2024 12:18
+Ali,Latte,No Flavour,Soya,3.0,£21.59,Croydon,Card,4996397485227947,2024/08/18
+Jessica,Cappuccino,Hazelnut,No milk,2,£22.77,Camden,Cash,4279788933385115,13/03/2024 00:39
+,Latte,Caramel,Coconut,2,£6.92,London Bridge,Mobile,4681461093617217,14/12/2024 09:44
+Tom,Matcha Latte,Hazelnut,No milk,2,£11.53,Croydon,Card,4502439124260118,09/06/2024 09:53
+Jessica,Latte,Caramel,Coconut,4,£20.31,Camden,Mobile,4379149752879785,26/01/2024 23:07
+Daniel,Americano,Caramel,Oa,3,£12.45,Nottinghill,Cash,4797301741628244,15/04/2024 06:53
+Sarah,Flat White,Caramel,Coconut,,£18.47,,Mobile,4037576663643634,21/11/2024 20:09
+Ali,Matcha Latte,No Flavour,Semi-Skimmed Milk,3,£19.05,Camden,Card,4328941296724712,22/07/2024 10:37
+Emily,Cappuccino,Vanilla,Soya,,£20.68,Nottinghill,Cash,4886813659187512,02/08/2024 00:45
+Ali,Mocha,No Flavour,No milk,4,£8.81,Nottinghill,Card,4938179186762786,12/06/2024 03:57
+Tom,Tea,Green,Coconut,3,£14.91,Camden,Cash,4623404544475193,12/10/2024 20:58
+,Mocha,Hazelnut,No milk,3,£16.13,Ealing,Card,4038165213671431,09/06/2024 11:41
+,Tea,English Breakfast,Oa,2,3.50,Ealing,Mobile,4556309182414684,26/08/2024 16:15
+Tom,Flat White,No Flavour,1% Milk,3,Three Pounds,Nottinghill,Cash,4646453853656083,11/01/2024 20:09
+Chris,Tea,Peppermint,Oa,4,£25.35,Croydon,Mobile,4303549315995798,06/12/2024 11:08
+Emily,Espresso,No Flavour,No milk,1,£19.25,Ealing,Cash,4028846347261730,06/03/2024 12:28
+,Cappuccino,Caramel,Coconut,3,£11.24,Camden,Card,4538523003139294,10/08/2024 04:33
+Tom,Flat White,No Flavour,Oa,2,£12.37,Croydon,Mobile,4327772718673533,07/03/2024 17:46
+Emily,Hot Chocolate,Vanilla,Oa,3.0,Three Pounds,Ealing,Cash,4924247434271343,06/06/2024 18:01
+Emily,Matcha Latte,Caramel,Semi-Skimmed Milk,3,£22.09,Croydon,Mobile,4821478553468530,06/11/2024 19:37
+Priya,Americano,Caramel,No milk,1,£21.92,Brixton,Cash,4869768867945579,24/01/2024 04:56
+Tom,Americano,Hazelnut,Soya,2,£13.59,Nottinghill,Mobile,4688393707139924,20/01/2024 14:08
+Ali,Cappuccino,Hazelnut,Coconut,1,£19.59,Soho,Mobile,4198258376721627,12/03/2024 10:39
+Emily,Flat White,Caramel,Soya,3,£24.63,Croydon,Mobile,4919850785779293,23/03/2024 11:27
+Dave,Hot Chocolate,Vanilla,Soya,2,£11.06,Croydon,Cash,4122063891375591,12/08/2024 05:49
+Daniel,Tea,English Breakfast,No milk,3,£16.31,Ealing,Card,4237030593864145,18-08-2024 12:45
+Priya,Americano,Vanilla,No milk,1,£two,Ealing,Mobile,4798841563003015,22/12/2024 23:32
+Priya,Latte,Caramel,1% Milk,4,3.50,Croydon,Cash,4266090232930758,21/06/2024 15:38
+Jessica,Hot Chocolate,Hazelnut,Semi-Skimmed Milk,2,£24.6,Soho,Card,notacard,05/01/2024 11:55
+Chris,Hot Chocolate,No Flavour,Soya,3,£13.09,Brixton,Card,4616923769863489,22/07/2024 14:21
+Chris,Americano,No Flavour,Oa,,£18.11,Croydon,Mobile,4795857901024418,04/05/2024 01:27
+Ali,Cappuccino,Hazelnut,Semi-Skimmed Milk,1,£8.04,Camden,Mobile,4316920838733987,02/10/2024 13:37
+Dave,Tea,Oolong,Coconut,2,£25.54,Camden,Cash,4373454441159343,03/02/2024 19:50
+Jessica,Flat White,No Flavour,1% Milk,1,£16.68,Brixton,Card,4534776025482705,10/06/2024 03:34
+Tom,Flat White,Vanilla,Semi-Skimmed Milk,3,£9.83,Nottinghill,Mobile,4140389817102629,23/08/2024 19:44
+Sarah,Mocha,Hazelnut,1% Milk,2,£20.37,Camden,Card,4802768981974986,10/04/2024 11:46
+,Tea,English Breakfast,1% Milk,2,£two,Croydon,Mobile,4975480966861362,18/10/2024 21:05
+Tom,Latte,Hazelnut,Soya,1,£two,Croydon,Card,,09/02/2024 18:29
+Sarah,Flat White,Vanilla,Semi-Skimmed Milk,3,£25.79,Ealing,Card,4602941637808001,18-08-2024 12:45
+Tom,Latte,Vanilla,No milk,2,£24.86,,Mobile,4112337862346677,04/05/2024 10:41
+Dave,Americano,No Flavour,1% Milk,3,£16.84,Soho,Card,4736441998377131,16/03/2024 21:53
+Priya,Mocha,Hazelnut,Soya,1,£19.77,Ealing,,notacard,22/07/2024 21:13
+Sarah,Tea,Green,Oa,3,£12.09,Brixton,Cash,4374612444453237,06/04/2024 02:31
+Sarah,Flat White,Caramel,Oa,3,£15.62,Croydon,Mobile,1234abcd5678,26/09/2024 04:26
+Daniel,Espresso,Vanilla,Semi-Skimmed Milk,2,£19.81,Brixton,Card,4049638457752173,02/02/2024 02:32
+Jessica,Americano,Hazelnut,No milk,2,£9.84,Nottinghill,Cash,4470767933660924,33/13/2024 10:00
+Chris,Mocha,Hazelnut,Semi-Skimmed Milk,4,£14.56,Nottinghill,Mobile,4263161976129965,28/07/2024 15:44
+Priya,Hot Chocolate,No Flavour,Oa,2,£20.73,Ealing,Card,4472071631065028,2024/08/18
+Priya,Hot Chocolate,Vanilla,Soya,3,£10.35,Brixton,Cash,4337197338886230,08/08/2024 18:46
+,Espresso,Vanilla,Coconut,1,£25.58,Camden,Mobile,4147880051689186,28/09/2024 22:57
+Jessica,Americano,No Flavour,No milk,2,£10.69,Nottinghill,Mobile,4331055330092095,02/02/2024 04:01
+,Hot Chocolate,No Flavour,Oa,3,£8.12,Brixton,Cash,4282367053253615,11/02/2024 12:12
+Tom,Hot Chocolate,Hazelnut,1% Milk,3,£9.94,Brixton,Card,4173155990911510,18-08-2024 12:45
+Ali,Espresso,Vanilla,Soya,1,£9.88,Croydon,Card,4887077026945598,03/04/2024 21:00
+Tom,Cappuccino,Caramel,Soya,3,£17.85,Nottinghill,Card,4803147246438763,11/02/2024 12:34
+Tom,Tea,Oolong,Coconut,two,£11.42,Brixton,Cash,4456051826899324,02/12/2024 03:49
+Chris,Mocha,No Flavour,Oa,3,£11.96,Nottinghill,Cash,4612547617075531,24/03/2024 14:38
+Sarah,Matcha Latte,No Flavour,Soya,1,£15.73,Ealing,Cash,4095507846738660,2024/08/18
+Emily,Americano,No Flavour,No milk,3,£7.18,Camden,Card,4567674469393687,07/11/2024 13:35
+Daniel,Mocha,Vanilla,Soya,1,£8.79,Soho,Mobile,4107242177670900,17/05/2024 05:33
+Tom,Tea,Peppermint,Coconut,1,3.50,Nottinghill,Card,4385294341987253,09/10/2024 17:41
+Jessica,Hot Chocolate,Hazelnut,Coconut,3,£19.4,Croydon,Mobile,4386135147390369,16/09/2024 13:25
+Emily,Matcha Latte,Vanilla,Coconut,1,£12.46,Nottinghill,Cash,4152268799619204,05/07/2024 07:05
+Jessica,Espresso,Hazelnut,Coconut,3,£20.76,Ealing,Cash,4112398729487342,
+Emily,Latte,Hazelnut,Coconut,4,£21.98,Croydon,Mobile,4366610359638468,33/13/2024 10:00
+Sarah,Espresso,Caramel,Coconut,4,£14.39,London Bridge,,4285465871427267,03/06/2024 11:02
